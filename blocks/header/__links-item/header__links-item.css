@@ -1,0 +1,7 @@
+.header__links-item {
+  margin-right: 18px;
+}
+
+.header__links-item:nth-last-of-type {
+  margin-right: 0;
+}
