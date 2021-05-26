@@ -6,3 +6,9 @@
   box-sizing: border-box;
   text-align: center;
 }
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .lead {
+    padding: 56px 48px 0;
+  }
+}
