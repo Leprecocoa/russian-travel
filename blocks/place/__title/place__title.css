@@ -1,0 +1,8 @@
+.place__title {
+  flex-basis: 460px;
+  margin: 0 40px 0 0;
+  font-family: 'Inter Black';
+  font-size: 72px;
+  line-height: 1;
+  color: #fff;
+}
