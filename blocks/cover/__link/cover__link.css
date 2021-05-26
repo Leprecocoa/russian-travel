@@ -18,4 +18,13 @@
   height: 100%;
   background-color: #2a2c2f;
   opacity: 0.3;
+  transition: opacity 0.2s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+  -webkit-transition: opacity 0.2s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+  -moz-transition: opacity 0.2s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+  -ms-transition: opacity 0.2s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+  -o-transition: opacity 0.2s cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
+
+.cover__link:hover::after {
+  opacity: 0.8;
 }
