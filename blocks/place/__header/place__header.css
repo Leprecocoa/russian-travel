@@ -6,7 +6,8 @@
 
 @media screen and (max-width: 768px) {
   .place__header {
-    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
     margin-bottom: 32px;
     padding: 0 16px;
   }

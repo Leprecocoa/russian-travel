@@ -8,6 +8,12 @@
 
 @media screen and (max-width: 768px) {
   .footer__links-item {
+    margin-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .footer__links-item {
     margin: 0 0 32px 0;
   }
 
