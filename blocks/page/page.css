@@ -2,7 +2,7 @@
   max-width: 1280px;
   margin: 0 auto;
   box-sizing: border-box;
-  font-family: 'Inter Regular', 'Inter Bold', 'Inter Black', sans-serif;
+  font-family: 'Inter Regular', 'Inter Bold', 'Inter Black', 'Arial', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
