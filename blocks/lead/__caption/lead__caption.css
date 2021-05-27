@@ -8,7 +8,7 @@
   color: #fff;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .lead__caption {
     padding-left: 24px;
   }
