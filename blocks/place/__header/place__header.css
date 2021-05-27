@@ -3,3 +3,11 @@
   align-items: flex-end;
   margin-bottom: 48px;
 }
+
+@media screen and (max-width: 768px) {
+  .place__header {
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+    padding: 0 16px;
+  }
+}

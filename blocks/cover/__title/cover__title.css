@@ -7,3 +7,10 @@
   color: #fff;
   z-index: 1;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__title {
+    margin-bottom: 16px;
+    font-size: 32px;
+  }
+}

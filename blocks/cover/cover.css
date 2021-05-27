@@ -8,3 +8,9 @@
     padding: 90px 0 0;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .cover {
+    padding: 66px 0 0;
+  }
+}

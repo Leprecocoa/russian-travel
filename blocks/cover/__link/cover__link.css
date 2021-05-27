@@ -28,3 +28,10 @@
 .cover__link:hover::after {
   opacity: 0.8;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    min-height: auto;
+    padding: 33px 16px;
+  }
+}

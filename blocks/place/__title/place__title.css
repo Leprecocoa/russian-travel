@@ -19,3 +19,11 @@
     font-size: 42px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    flex-basis: 100%;
+    margin-bottom: 32px;
+    font-size: 32px;
+  }
+}
