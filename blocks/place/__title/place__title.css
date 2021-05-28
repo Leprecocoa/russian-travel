@@ -1,26 +1,26 @@
 .place__title {
   flex-basis: 460px;
   margin: 0 40px 0 0;
-  font-family: 'Inter Black';
   font-size: 72px;
+  font-weight: 900;
   line-height: 1;
   color: #fff;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .place__title {
     flex-basis: 440px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .place__title {
     flex-basis: 340px;
     font-size: 42px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__title {
     flex-basis: 100%;
     margin-bottom: 32px;

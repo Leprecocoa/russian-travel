@@ -1,13 +1,13 @@
 .lead__title {
   margin: 0 0 32px;
   max-width: 720px;
-  font-family: 'Inter Black';
   font-size: 96px;
+  font-weight: 900;
   line-height: 1;
   color: #fff;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead__title {
     margin-bottom: 16px;
     padding: 0 16px;
